@@ -2,7 +2,7 @@ package com.yuanxi;
 
 import java.util.Scanner;
 
-public class test1 {
+public class arinplane_ticket {
     public static void main(String[] args){
         //输入机票原价，月份和头等舱或者经济舱
         //旺季（5-10月）头等舱9折，经济舱8.5折，淡季（11月-4月）头等舱7.5折，经济舱6.5折
