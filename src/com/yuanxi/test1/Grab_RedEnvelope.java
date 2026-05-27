@@ -1,4 +1,4 @@
-package com.yuanxi;
+package com.yuanxi.test1;
 
 import java.util.Random;
 

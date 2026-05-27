@@ -1,4 +1,4 @@
-package com.yuanxi;
+package com.yuanxi.test1;
 
 public class prime_number {
     public static void main(String[] args){
